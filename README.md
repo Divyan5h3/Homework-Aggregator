@@ -95,10 +95,3 @@ Our project has 3 main components:
 3. The data scraper gets assignment data from online platforms and returns them to the backend. It was written using                       Selenium and BeautifulSoup
 
 ![alt text](https://github.com/CS222-UIUC/course-project-group-63/blob/main/architecture.png)
- 
-# Group Member Contributions:
- - Akash - Worked on frontend and flask.
- - Rohan - Worked on frontend and flask.
- - Arjun - Built scraper for getting data from online platforms and made .
- - Divyansh - Helped with troubleshooting problems and with scraper.
- 
